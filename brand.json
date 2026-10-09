@@ -1,6 +1,6 @@
 {
  "name":"원익홀딩스","slug":"wonik-holdings","accent":"#083F88","accent_ink":"#083F88","on_accent":"#FFFFFF",
  "paper":"#F5F7FA","ink":"#142231","muted":"#526274","line":"#D5DCE5","font_family":"Pretendard","font_css":"assets/PretendardVariable.woff2","radius":"0px",
- "sources":[{"url":"https://www.wonikholdings.kr/intro_07.do","verified_at":"2026-10-09","type":"official","facts":"CI RGB 8/63/136, 회색 RGB 167/169/172"},{"url":"https://www.wonik.com/","verified_at":"2026-10-09","type":"official","facts":"자유·소통·행복의 가치, 기술과 사람의 연결"}],
- "interpretation":"원익의 청색·회색을 구매 지원자의 신뢰감과 데이터 설명에 적용한다. 기업 로고를 사용하지 않고 조수호 개인 지원 포트폴리오로 명시한다. A는 밝은 구매 제안서, B는 어두운 데이터 지면, C는 편집형 협업 사례집이다."
+ "sources":[{"url":"https://www.wonikholdings.kr/intro_07.do","verified_at":"2026-10-09","type":"official","facts":"CI RGB 8/63/136, 회색 RGB 167/169/172"},{"url":"https://www.wonik.com/","verified_at":"2026-10-09","type":"official","facts":"자유 | 소통 | 행복의 가치, 기술과 사람의 연결"}],
+ "interpretation":"원익의 청색과 회색을 구매 지원자의 신뢰감과 데이터 설명에 적용한다. 기업 로고를 사용하지 않고 조수호 개인 지원 포트폴리오로 명시한다. A는 코발트 블루 그리드와 큰 타이포그래피를 사용한 편집형 구매 포트폴리오이며, B는 어두운 데이터 지면, C는 편집형 협업 사례집이다."
 }
