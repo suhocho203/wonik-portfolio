@@ -1,0 +1,23 @@
+name: Publish selected portfolio
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - name: Require a selected, ready portfolio
+        run: python3 -c "import json; c=json.load(open('portfolio.config.json')); assert c['status']=='ready' and c['selected_variant'] in ['A','B','C']"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
