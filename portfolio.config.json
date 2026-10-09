@@ -1,10 +1,27 @@
 {
-  "selected_variant": "A",
-  "status": "ready",
   "company": "원익홀딩스",
   "role": "구매",
-  "release": "2d2d162530fabfef",
-  "updated_at": "2026-10-09",
+  "selected_variant": "A",
+  "status": "ready",
+  "tools": {
+    "comparison": false,
+    "editor": true,
+    "html_export": true,
+    "pdf_export": true
+  },
+  "source_urls": [
+    "https://wonik.recruiter.co.kr/career/jobs/128767",
+    "https://mikekus.com/?ref=killerportfolio"
+  ],
+  "repository": "suhocho203/wonik-portfolio",
   "published_url": "https://suhocho203.github.io/wonik-portfolio/",
-  "repository": "suhocho203/wonik-portfolio"
+  "updated_at": "2026-10-09",
+  "release": "a3e3ca846930ef50",
+  "renderer_entrypoint": "scripts/build.py",
+  "qa_entrypoint": "scripts/qa.cjs",
+  "variants": {
+    "A": "코발트 편집형 구매 실행",
+    "B": "데이터와 판단",
+    "C": "협업과 운영"
+  }
 }
