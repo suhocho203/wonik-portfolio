@@ -1,4 +1,4 @@
-name: Publish selected portfolio
+name: Portfolio Pages
 on:
   push:
     branches: [main]
