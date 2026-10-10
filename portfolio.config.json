@@ -15,8 +15,8 @@
   ],
   "repository": "suhocho203/wonik-portfolio",
   "published_url": "https://suhocho203.github.io/wonik-portfolio/",
-  "updated_at": "2026-10-09",
-  "release": "6670b1d955958aff",
+  "updated_at": "2026-10-10",
+  "release": "a8c505e4d1a6a2ef",
   "renderer_entrypoint": "scripts/build.py",
   "qa_entrypoint": "scripts/qa.cjs",
   "variants": {
